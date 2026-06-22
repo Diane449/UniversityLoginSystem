@@ -3,8 +3,9 @@ public class Prof extends Persona {
         super(username, nome, "Professore");
     }
 
-    public int getIdProf() {
+   /* public int getIdProfessore() {
         // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'getIdProf'");
     }
-}
+*/
+    }

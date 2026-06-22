@@ -16,7 +16,7 @@ public class AuthDAO {
                 
                 if ("Studente".equalsIgnoreCase(ruolo)) {
                     return new Studente(username, nome);
-                } else if ("Prof".equalsIgnoreCase(ruolo)) {
+                } else if ("Professore".equalsIgnoreCase(ruolo)) {
                     return new Prof(username, nome);
                 }
             }
