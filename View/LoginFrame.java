@@ -1,4 +1,12 @@
+package View;
 import javax.swing.*;
+
+import Controller.AuthDAO;
+import Model.Persona;
+import Model.Prof;
+import Model.Studente;
+//import View.ProfFrame;
+
 import java.awt.*;
 
 public class LoginFrame extends JFrame {

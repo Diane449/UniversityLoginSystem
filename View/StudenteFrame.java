@@ -1,4 +1,10 @@
+package View;
 import javax.swing.*;
+
+import Controller.StudenteDAO;
+import Model.Studente;
+//import View.LoginFrame;
+
 import java.awt.*;
 import java.util.List;
 

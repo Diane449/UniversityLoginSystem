@@ -1,3 +1,6 @@
+//import Prof;
+
+package Model;
 public class Corso {
     private int idCorso;
     private String nomeCorso;

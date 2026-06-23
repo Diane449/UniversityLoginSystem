@@ -1,4 +1,9 @@
+package View;
 import javax.swing.*;
+
+import Controller.ProfDAO;
+import Model.Prof;
+
 import java.awt.*;
 import java.util.List;
 

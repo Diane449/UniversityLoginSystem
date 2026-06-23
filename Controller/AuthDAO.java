@@ -1,4 +1,9 @@
+package Controller;
 import java.sql.*;
+
+import Model.Persona;
+import Model.Prof;
+import Model.Studente;
 
 public class AuthDAO {
     public Persona login(String username, String password) {
