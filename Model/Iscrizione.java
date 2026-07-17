@@ -14,4 +14,6 @@ public class Iscrizione {
     public Studente getStudente() { return studente; }
     public String getStato() { return stato;}
     public Corso getCorso()  { return corso;}
+    // setter
+    public void setStato(String stato)  { this.stato = stato;}
 }
