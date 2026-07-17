@@ -13,4 +13,5 @@ public class Iscrizione {
     // Getter...
     public Studente getStudente() { return studente; }
     public String getStato() { return stato;}
+    public Corso getCorso()  { return corso;}
 }
