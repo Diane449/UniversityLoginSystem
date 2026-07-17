@@ -1,7 +1,7 @@
 # Documento di Visione (Vision Document)
 **Progetto:** Portale Universitario di Gestione Iscrizione Corsi
 **Tecnologia:** 100% Java (Swing + JDBC)
-**Sviluppatore:** [Il Tuo Nome]
+**Sviluppatore:** Ntang Tsassi Ange Diane
 
 ## 1. Introduzione
 Il presente documento definisce la visione e i requisiti ad alto livello per il sistema di gestione delle iscrizioni ai corsi universitari. L'obiettivo è risolvere le inefficienze nell'approvazione delle richieste di iscrizione degli studenti da parte dei docenti attraverso un'applicazione desktop snella, centralizzata e sicura.
